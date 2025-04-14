@@ -1,0 +1,17 @@
+Artificial Intelligence (AI) has a rich and fascinating history that stretches back to ancient myths and philosophical discussions about the nature of intelligence and consciousness. While AI as a formal discipline is relatively new, the idea of creating artificial beings capable of thought and reasoning has long captured human imagination.
+
+The earliest recorded stories of artificial beings appear in Greek mythology. Figures like Hephaestus, the god of fire and craftsmanship, were said to have created mechanical servants. Similar concepts appear in many ancient cultures, but it wasn’t until the invention of modern computers in the 20th century that AI moved from myth to possibility.
+
+In the 1940s, mathematician Alan Turing laid the theoretical groundwork for AI. In his 1950 paper, Computing Machinery and Intelligence, Turing posed the famous question, “Can machines think?” and proposed what is now known as the Turing Test, a method for determining whether a machine can exhibit human-like intelligence. Turing’s pioneering ideas anticipated many of the key challenges and debates in AI.
+
+The term "Artificial Intelligence" was officially coined in 1956 at the Dartmouth Conference, organized by computer scientist John McCarthy and his colleagues Marvin Minsky, Nathaniel Rochester, and Claude Shannon. This event is widely regarded as the birth of AI as a research field. The conference proposed that “every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.” Early AI research focused on symbolic reasoning, problem-solving, and game playing.
+
+During the 1960s and 1970s, AI made significant progress in developing programs that could solve mathematical problems and play games like chess. However, many early expectations were overly optimistic. By the mid-1970s, AI experienced its first major setback, known as the "AI Winter," when funding and interest declined due to the limitations of contemporary technology and unmet promises.
+
+AI research revived in the 1980s, largely due to the development of expert systems — computer programs designed to mimic the decision-making abilities of human experts. These systems found commercial success in industries like medicine and engineering. However, another downturn occurred in the late 1980s and early 1990s, as expert systems proved expensive and difficult to maintain.
+
+The late 1990s and early 2000s saw a resurgence of AI, driven by advances in machine learning, increased computing power, and the availability of large datasets. A landmark moment came in 1997, when IBM’s Deep Blue defeated world chess champion Garry Kasparov. This victory demonstrated AI’s potential to master complex, strategic tasks.
+
+In the 2010s, breakthroughs in deep learning — a type of machine learning inspired by the human brain’s neural networks — revolutionized AI applications in fields like image recognition, natural language processing, and autonomous vehicles. Technologies like Siri, Alexa, and self-driving cars emerged, bringing AI into everyday life.
+
+Today, AI continues to evolve rapidly, transforming industries and raising important ethical, social, and economic questions. As AI systems grow more sophisticated, the future promises even greater advancements — alongside debates about how best to guide and govern these powerful technologies.
