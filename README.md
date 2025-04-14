@@ -59,4 +59,18 @@ python task2.py
 
 ---
 
+## Task 3: Exploring Retrievers with Summarization
+
+To run Task 3:
+
+```bash
+cd ../task-3
+python task3.py
+```
+
+**Expected Output:**  
+![Exploring Retrievers with Summarization](task-3/output3.png)
+
+---
+
 **Contributor:** Mohammad Ali

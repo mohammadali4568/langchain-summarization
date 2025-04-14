@@ -50,7 +50,7 @@ vector_store = InMemoryVectorStore.from_documents(chunks, embeddings)
 
 retriver = vector_store.as_retriever()
 
-retrieved_docs = retriver.invoke("In the 2010s, breakthroughs in deep learning")
+retrieved_docs = retriver.invoke("AI milestones")
 
 print("Retrieved Text:", retrieved_docs[0].page_content)
 
