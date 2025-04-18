@@ -73,4 +73,18 @@ python task3.py
 
 ---
 
+## Task 4: Creating an Agent for Summarization
+
+To run Task 4:
+
+```bash
+cd ../task-4
+python task4.py
+```
+
+**Expected Output:**  
+![Creating an Agent for Summarization](task-4/output4.png)
+
+---
+
 **Contributor:** Mohammad Ali
