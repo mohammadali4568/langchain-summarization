@@ -87,4 +87,18 @@ python task4.py
 
 ---
 
+## Task 5: Combining Chains, Retrievers, and Agents
+
+To run Task 5:
+
+```bash
+cd ../task-5
+python task5.py
+```
+
+**Expected Output:**  
+![Combining Chains, Retrievers, and Agents](task-5/output5.png)
+
+---
+
 **Contributor:** Mohammad Ali
