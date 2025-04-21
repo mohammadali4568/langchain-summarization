@@ -129,4 +129,18 @@ python task7.py
 
 ---
 
+## Task 8: Customizing with Output Parsers
+
+To run Task 8:
+
+```bash
+cd ../task-8
+python task8.py
+```
+
+**Expected Output:**  
+![Customizing with Output Parsers](task-8/output8.png)
+
+---
+
 **Contributor:** Mohammad Ali
