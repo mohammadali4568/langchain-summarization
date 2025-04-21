@@ -3,6 +3,9 @@ from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferMemory, ConversationSummaryMemory
 from dotenv import load_dotenv
 import os
+import warnings
+warnings.filterwarnings("ignore")
+
 
 # Load environment variables
 load_dotenv()
