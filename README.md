@@ -101,4 +101,18 @@ python task5.py
 
 ---
 
+## Task 6: Using Memory to Improve Summarization
+
+To run Task 6:
+
+```bash
+cd ../task-6
+python task6.py
+```
+
+**Expected Output:**  
+![Using Memory to Improve Summarization](task-6/output6.png)
+
+---
+
 **Contributor:** Mohammad Ali
