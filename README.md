@@ -115,4 +115,18 @@ python task6.py
 
 ---
 
+## Task 7: Leveraging Document Loaders for Diverse Sources
+
+To run Task 7:
+
+```bash
+cd ../task-7
+python task7.py
+```
+
+**Expected Output:**  
+![Leveraging Document Loaders for Diverse Sources](task-7/output7.png)
+
+---
+
 **Contributor:** Mohammad Ali
