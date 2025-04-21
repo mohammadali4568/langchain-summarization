@@ -143,4 +143,18 @@ python task8.py
 
 ---
 
+## Task 9: Experimenting with Multi-Query Retrieval
+
+To run Task 9:
+
+```bash
+cd ../task-9
+python task9.py
+```
+
+**Expected Output:**  
+![Experimenting with Multi-Query Retrieval](task-9/output9.png)
+
+---
+
 **Contributor:** Mohammad Ali
