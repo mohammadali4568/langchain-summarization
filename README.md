@@ -157,4 +157,18 @@ python task9.py
 
 ---
 
+## Task 10: Building a Question-Answering Chain on Summaries
+
+To run Task 10:
+
+```bash
+cd ../task-10
+python task10.py
+```
+
+**Expected Output:**  
+![Building a Question-Answering Chain on Summaries](task-10/output10.png)
+
+---
+
 **Contributor:** Mohammad Ali
