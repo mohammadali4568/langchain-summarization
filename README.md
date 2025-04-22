@@ -171,4 +171,18 @@ python task10.py
 
 ---
 
+## Task 11: Integrating External Tools with Agents
+
+To run Task 11:
+
+```bash
+cd ../task-11
+python task11.py
+```
+
+**Expected Output:**  
+![Integrating External Tools with Agents](task-11/output11.png)
+
+---
+
 **Contributor:** Mohammad Ali
